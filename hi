@@ -1,0 +1,17 @@
+echo "# shiny-doodle" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/samadsh77/shiny-doodle.git
+git push -u origin master
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Title of the document</title>
+</head>
+
+<body>
+The content of the document......
+</body>
+
+</html>
